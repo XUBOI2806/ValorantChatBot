@@ -1,0 +1,1461 @@
+[
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "9a654acd-7924-51bf-a516-bb7c6f0d2237",
+            "name": "Pugilistik",
+            "tag": "6393",
+            "team": "Red"
+          },
+          "bodyshots": 2,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 130
+        }
+      ],
+      "stats": {
+        "score": 195,
+        "kills": 1,
+        "headshots": 1,
+        "bodyshots": 2,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 900,
+        "remaining": 50,
+        "weapon": {
+          "id": "29a0cfab-485b-f5d5-779a-b59f85e204a8",
+          "name": "Classic",
+          "type": "Weapon"
+        },
+        "armor": null
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 1.3258388,
+        "location": {
+          "x": 6409,
+          "y": -1503
+        }
+      },
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 4.5888076,
+        "location": {
+          "x": 9433,
+          "y": 810
+        }
+      }
+    ],
+    "plant_site": "A"
+  },
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "0817ae5a-82f1-5f59-90ef-c539953e663f",
+            "name": "tren",
+            "tag": "1691",
+            "team": "Red"
+          },
+          "bodyshots": 0,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 67
+        }
+      ],
+      "stats": {
+        "score": 181,
+        "kills": 1,
+        "headshots": 1,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 3800,
+        "remaining": 1150,
+        "weapon": {
+          "id": "f7e1b454-4ad4-1063-ec0a-159e56b58941",
+          "name": "Stinger",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 2.9120708,
+        "location": {
+          "x": 12765,
+          "y": 541
+        }
+      },
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 0.3845498,
+        "location": {
+          "x": 10203,
+          "y": 1383
+        }
+      }
+    ],
+    "plant_site": "A"
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [],
+      "stats": {
+        "score": 0,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 3000,
+        "remaining": 3600,
+        "weapon": {
+          "id": "f7e1b454-4ad4-1063-ec0a-159e56b58941",
+          "name": "Stinger",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": "B"
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "53a21454-6464-555e-858a-6f00f093e2e3",
+            "name": "XmXtringder",
+            "tag": "Pine",
+            "team": "Red"
+          },
+          "bodyshots": 0,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 160
+        }
+      ],
+      "stats": {
+        "score": 215,
+        "kills": 1,
+        "headshots": 1,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 5100,
+        "remaining": 950,
+        "weapon": {
+          "id": "63e6c2b6-4a8e-869c-3d4c-e38355226584",
+          "name": "Odin",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 2.1277273,
+        "location": {
+          "x": 11783,
+          "y": 750
+        }
+      }
+    ],
+    "plant_site": "A"
+  },
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [],
+      "stats": {
+        "score": 0,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 2100,
+        "remaining": 1600,
+        "weapon": {
+          "id": "e336c6b8-418d-9340-d77f-7a9e4cfe0702",
+          "name": "Sheriff",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "4dec83d5-4902-9ab3-bed6-a7a390761157",
+          "name": "Light Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": null
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [],
+      "stats": {
+        "score": 0,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 5100,
+        "remaining": 250,
+        "weapon": {
+          "id": "63e6c2b6-4a8e-869c-3d4c-e38355226584",
+          "name": "Odin",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 1.8166168,
+        "location": {
+          "x": 12658,
+          "y": 2512
+        }
+      }
+    ],
+    "plant_site": "A"
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [],
+      "stats": {
+        "score": 0,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 950,
+        "remaining": 1350,
+        "weapon": {
+          "id": "e336c6b8-418d-9340-d77f-7a9e4cfe0702",
+          "name": "Sheriff",
+          "type": "Weapon"
+        },
+        "armor": null
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": "B"
+  },
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [],
+      "stats": {
+        "score": 0,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 3850,
+        "remaining": 50,
+        "weapon": {
+          "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+          "name": "Vandal",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "4dec83d5-4902-9ab3-bed6-a7a390761157",
+          "name": "Light Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": null
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "9a654acd-7924-51bf-a516-bb7c6f0d2237",
+            "name": "Pugilistik",
+            "tag": "6393",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 200
+        },
+        {
+          "player": {
+            "puuid": "53a21454-6464-555e-858a-6f00f093e2e3",
+            "name": "XmXtringder",
+            "tag": "Pine",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 50
+        }
+      ],
+      "stats": {
+        "score": 310,
+        "kills": 1,
+        "headshots": 1,
+        "bodyshots": 2,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 4200,
+        "remaining": 2700,
+        "weapon": {
+          "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+          "name": "Vandal",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "4dec83d5-4902-9ab3-bed6-a7a390761157",
+          "name": "Light Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": null
+  },
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [],
+      "stats": {
+        "score": 0,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 4800,
+        "remaining": 750,
+        "weapon": {
+          "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+          "name": "Vandal",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": null
+  },
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "f6579c6c-6196-5da2-9dc0-28f38c5d3579",
+            "name": "\u0633\u0644\u0633\u0628\u064a\u0644\u0627",
+            "tag": "\u0627\u0645\u064a\u0646",
+            "team": "Red"
+          },
+          "bodyshots": 2,
+          "headshots": 0,
+          "legshots": 1,
+          "damage": 71
+        },
+        {
+          "player": {
+            "puuid": "0817ae5a-82f1-5f59-90ef-c539953e663f",
+            "name": "tren",
+            "tag": "1691",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 40
+        },
+        {
+          "player": {
+            "puuid": "53a21454-6464-555e-858a-6f00f093e2e3",
+            "name": "XmXtringder",
+            "tag": "Pine",
+            "team": "Red"
+          },
+          "bodyshots": 0,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 160
+        },
+        {
+          "player": {
+            "puuid": "a157d015-18f7-508f-ab28-abf84a97d191",
+            "name": "Jacob",
+            "tag": "ddd",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 40
+        }
+      ],
+      "stats": {
+        "score": 383,
+        "kills": 1,
+        "headshots": 1,
+        "bodyshots": 4,
+        "legshots": 1
+      },
+      "economy": {
+        "loadout_value": 4450,
+        "remaining": 200,
+        "weapon": {
+          "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+          "name": "Vandal",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "b1b9086d-41bd-a516-5d29-e3b34a6f1644",
+          "name": "Regen Shield"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": "B"
+  },
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "0817ae5a-82f1-5f59-90ef-c539953e663f",
+            "name": "tren",
+            "tag": "1691",
+            "team": "Red"
+          },
+          "bodyshots": 3,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 169
+        },
+        {
+          "player": {
+            "puuid": "53a21454-6464-555e-858a-6f00f093e2e3",
+            "name": "XmXtringder",
+            "tag": "Pine",
+            "team": "Red"
+          },
+          "bodyshots": 0,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 160
+        }
+      ],
+      "stats": {
+        "score": 589,
+        "kills": 2,
+        "headshots": 1,
+        "bodyshots": 3,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 4800,
+        "remaining": 1650,
+        "weapon": {
+          "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+          "name": "Vandal",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": null
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "0817ae5a-82f1-5f59-90ef-c539953e663f",
+            "name": "tren",
+            "tag": "1691",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 104
+        },
+        {
+          "player": {
+            "puuid": "9a654acd-7924-51bf-a516-bb7c6f0d2237",
+            "name": "Pugilistik",
+            "tag": "6393",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 30
+        }
+      ],
+      "stats": {
+        "score": 260,
+        "kills": 1,
+        "headshots": 1,
+        "bodyshots": 2,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 900,
+        "remaining": 50,
+        "weapon": {
+          "id": "29a0cfab-485b-f5d5-779a-b59f85e204a8",
+          "name": "Classic",
+          "type": "Weapon"
+        },
+        "armor": null
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 1.6973498,
+        "location": {
+          "x": 10048,
+          "y": 1756
+        }
+      }
+    ],
+    "plant_site": "A"
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "a157d015-18f7-508f-ab28-abf84a97d191",
+            "name": "Jacob",
+            "tag": "ddd",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 22
+        }
+      ],
+      "stats": {
+        "score": 22,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 1,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 900,
+        "remaining": 1900,
+        "weapon": {
+          "id": "29a0cfab-485b-f5d5-779a-b59f85e204a8",
+          "name": "Classic",
+          "type": "Weapon"
+        },
+        "armor": null
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": null
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "9a654acd-7924-51bf-a516-bb7c6f0d2237",
+            "name": "Pugilistik",
+            "tag": "6393",
+            "team": "Red"
+          },
+          "bodyshots": 2,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 70
+        }
+      ],
+      "stats": {
+        "score": 70,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 2,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 4650,
+        "remaining": 0,
+        "weapon": {
+          "id": "ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a",
+          "name": "Phantom",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 3.3080297,
+        "location": {
+          "x": 10073,
+          "y": 1773
+        }
+      }
+    ],
+    "plant_site": "A"
+  },
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "0817ae5a-82f1-5f59-90ef-c539953e663f",
+            "name": "tren",
+            "tag": "1691",
+            "team": "Red"
+          },
+          "bodyshots": 0,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 145
+        }
+      ],
+      "stats": {
+        "score": 145,
+        "kills": 0,
+        "headshots": 1,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 2100,
+        "remaining": 1450,
+        "weapon": {
+          "id": "e336c6b8-418d-9340-d77f-7a9e4cfe0702",
+          "name": "Sheriff",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "4dec83d5-4902-9ab3-bed6-a7a390761157",
+          "name": "Light Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 6.2549024,
+        "location": {
+          "x": 11089,
+          "y": -4838
+        }
+      }
+    ],
+    "plant_site": "B"
+  },
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "a157d015-18f7-508f-ab28-abf84a97d191",
+            "name": "Jacob",
+            "tag": "ddd",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 35
+        }
+      ],
+      "stats": {
+        "score": 35,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 1,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 5000,
+        "remaining": 4200,
+        "weapon": {
+          "id": "ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a",
+          "name": "Phantom",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "4dec83d5-4902-9ab3-bed6-a7a390761157",
+          "name": "Light Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": "B"
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "53a21454-6464-555e-858a-6f00f093e2e3",
+            "name": "XmXtringder",
+            "tag": "Pine",
+            "team": "Red"
+          },
+          "bodyshots": 0,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 160
+        },
+        {
+          "player": {
+            "puuid": "0817ae5a-82f1-5f59-90ef-c539953e663f",
+            "name": "tren",
+            "tag": "1691",
+            "team": "Red"
+          },
+          "bodyshots": 0,
+          "headshots": 1,
+          "legshots": 0,
+          "damage": 160
+        },
+        {
+          "player": {
+            "puuid": "a157d015-18f7-508f-ab28-abf84a97d191",
+            "name": "Jacob",
+            "tag": "ddd",
+            "team": "Red"
+          },
+          "bodyshots": 3,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 120
+        }
+      ],
+      "stats": {
+        "score": 710,
+        "kills": 2,
+        "headshots": 2,
+        "bodyshots": 3,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 4800,
+        "remaining": 3600,
+        "weapon": {
+          "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+          "name": "Vandal",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 5.200962,
+        "location": {
+          "x": 10878,
+          "y": 1759
+        }
+      }
+    ],
+    "plant_site": "A"
+  },
+  {
+    "round_result": "Blue",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "0817ae5a-82f1-5f59-90ef-c539953e663f",
+            "name": "tren",
+            "tag": "1691",
+            "team": "Red"
+          },
+          "bodyshots": 2,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 182
+        }
+      ],
+      "stats": {
+        "score": 299,
+        "kills": 1,
+        "headshots": 0,
+        "bodyshots": 2,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 4800,
+        "remaining": 2300,
+        "weapon": {
+          "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+          "name": "Vandal",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 0.9242234,
+        "location": {
+          "x": 10038,
+          "y": 1856
+        }
+      }
+    ],
+    "plant_site": "A"
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "9a654acd-7924-51bf-a516-bb7c6f0d2237",
+            "name": "Pugilistik",
+            "tag": "6393",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 61
+        }
+      ],
+      "stats": {
+        "score": 176,
+        "kills": 1,
+        "headshots": 0,
+        "bodyshots": 1,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 4800,
+        "remaining": 1750,
+        "weapon": {
+          "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+          "name": "Vandal",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": null
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [],
+      "stats": {
+        "score": 0,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 0,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 2400,
+        "remaining": 1600,
+        "weapon": {
+          "id": "f7e1b454-4ad4-1063-ec0a-159e56b58941",
+          "name": "Stinger",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "4dec83d5-4902-9ab3-bed6-a7a390761157",
+          "name": "Light Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": null
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "53a21454-6464-555e-858a-6f00f093e2e3",
+            "name": "XmXtringder",
+            "tag": "Pine",
+            "team": "Red"
+          },
+          "bodyshots": 2,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 80
+        }
+      ],
+      "stats": {
+        "score": 80,
+        "kills": 0,
+        "headshots": 0,
+        "bodyshots": 2,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 4450,
+        "remaining": 50,
+        "weapon": {
+          "id": "9c82e19d-4575-0200-1a81-3eacf00cf872",
+          "name": "Vandal",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "b1b9086d-41bd-a516-5d29-e3b34a6f1644",
+          "name": "Regen Shield"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [
+      {
+        "player": {
+          "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+          "name": "Swift728",
+          "tag": "OC",
+          "team": "Blue"
+        },
+        "view_radians": 0.12022574,
+        "location": {
+          "x": 11086,
+          "y": -4906
+        }
+      }
+    ],
+    "plant_site": "B"
+  },
+  {
+    "round_result": "Red",
+    "player_stats": {
+      "player": {
+        "puuid": "1054288b-0d96-5fc9-bb12-cc09aee3b5d4",
+        "name": "Swift728",
+        "tag": "OC",
+        "team": "Blue"
+      },
+      "ability_casts": {
+        "grenade": null,
+        "ability_1": null,
+        "ability_2": null,
+        "ultimate": null
+      },
+      "damage_events": [
+        {
+          "player": {
+            "puuid": "a157d015-18f7-508f-ab28-abf84a97d191",
+            "name": "Jacob",
+            "tag": "ddd",
+            "team": "Red"
+          },
+          "bodyshots": 4,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 108
+        },
+        {
+          "player": {
+            "puuid": "9a654acd-7924-51bf-a516-bb7c6f0d2237",
+            "name": "Pugilistik",
+            "tag": "6393",
+            "team": "Red"
+          },
+          "bodyshots": 1,
+          "headshots": 0,
+          "legshots": 0,
+          "damage": 40
+        }
+      ],
+      "stats": {
+        "score": 255,
+        "kills": 1,
+        "headshots": 0,
+        "bodyshots": 5,
+        "legshots": 0
+      },
+      "economy": {
+        "loadout_value": 3000,
+        "remaining": 400,
+        "weapon": {
+          "id": "f7e1b454-4ad4-1063-ec0a-159e56b58941",
+          "name": "Stinger",
+          "type": "Weapon"
+        },
+        "armor": {
+          "id": "822bcab2-40a2-324e-c137-e09195ad7692",
+          "name": "Heavy Armor"
+        }
+      },
+      "was_afk": false,
+      "received_penalty": false,
+      "stayed_in_spawn": false
+    },
+    "locations": [],
+    "plant_site": null
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "round": 2,
+    "killer": "tren",
+    "weapon": "Vandal",
+    "location": {
+      "x": 8861,
+      "y": -1826
+    },
+    "time": 55145
+  },
+  {
+    "round": 3,
+    "killer": "\u0633\u0644\u0633\u0628\u064a\u0644\u0627",
+    "weapon": "Vandal",
+    "location": {
+      "x": 10494,
+      "y": 1852
+    },
+    "time": 56072
+  },
+  {
+    "round": 4,
+    "killer": "Pugilistik",
+    "weapon": "Vandal",
+    "location": {
+      "x": 10927,
+      "y": -6058
+    },
+    "time": 22364
+  },
+  {
+    "round": 5,
+    "killer": "\u0633\u0644\u0633\u0628\u064a\u0644\u0627",
+    "weapon": "Stinger",
+    "location": {
+      "x": 11738,
+      "y": 3885
+    },
+    "time": 50024
+  },
+  {
+    "round": 6,
+    "killer": "tren",
+    "weapon": "Phantom",
+    "location": {
+      "x": 10007,
+      "y": -5699
+    },
+    "time": 13958
+  },
+  {
+    "round": 8,
+    "killer": "tren",
+    "weapon": "Vandal",
+    "location": {
+      "x": 10325,
+      "y": 2573
+    },
+    "time": 25116
+  },
+  {
+    "round": 9,
+    "killer": "Jacob",
+    "weapon": "Vandal",
+    "location": {
+      "x": 11539,
+      "y": -5070
+    },
+    "time": 25525
+  },
+  {
+    "round": 10,
+    "killer": "Jacob",
+    "weapon": "Vandal",
+    "location": {
+      "x": 10396,
+      "y": -4055
+    },
+    "time": 81072
+  },
+  {
+    "round": 12,
+    "killer": "XmXtringder",
+    "weapon": "Ghost",
+    "location": {
+      "x": 8383,
+      "y": 998
+    },
+    "time": 68317
+  },
+  {
+    "round": 13,
+    "killer": "Jacob",
+    "weapon": "Guardian",
+    "location": {
+      "x": 8884,
+      "y": -4437
+    },
+    "time": 16857
+  },
+  {
+    "round": 14,
+    "killer": "Jacob",
+    "weapon": "Vandal",
+    "location": {
+      "x": 10414,
+      "y": 135
+    },
+    "time": 41974
+  },
+  {
+    "round": 16,
+    "killer": "Jacob",
+    "weapon": "Vandal",
+    "location": {
+      "x": 7144,
+      "y": 294
+    },
+    "time": 5493
+  },
+  {
+    "round": 17,
+    "killer": "Jacob",
+    "weapon": "Vandal",
+    "location": {
+      "x": 10285,
+      "y": 39
+    },
+    "time": 63198
+  },
+  {
+    "round": 18,
+    "killer": "Pugilistik",
+    "weapon": "Judge",
+    "location": {
+      "x": 9935,
+      "y": 1771
+    },
+    "time": 19589
+  },
+  {
+    "round": 19,
+    "killer": "XmXtringder",
+    "weapon": "Sheriff",
+    "location": {
+      "x": 11717,
+      "y": -5598
+    },
+    "time": 89768
+  },
+  {
+    "round": 20,
+    "killer": "tren",
+    "weapon": "Vandal",
+    "location": {
+      "x": 8708,
+      "y": 789
+    },
+    "time": 15374
+  },
+  {
+    "round": 21,
+    "killer": "XmXtringder",
+    "weapon": "Vandal",
+    "location": {
+      "x": 11860,
+      "y": -4734
+    },
+    "time": 53927
+  },
+  {
+    "round": 22,
+    "killer": "Pugilistik",
+    "weapon": "Vandal",
+    "location": {
+      "x": 10496,
+      "y": 2496
+    },
+    "time": 44137
+  }
+]
