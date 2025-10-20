@@ -1,5 +1,5 @@
 from match_fetcher import fetch_match_data
-from data_parser import parse_player_data, extract_player_rounds, extract_player_kills, extract_player_deaths
+from data_parser import extract_player_data, extract_player_rounds, extract_player_combat_summary
 from ai_chat import generate_feedback
 import os
 import json
@@ -10,8 +10,7 @@ tag = "OC"
 
 player_file = "data_summary/player_summary.json"
 rounds_file = "data_summary/round_summary.json"
-kills_file = "data_summary/kill_summary.json"
-deaths_file = "data_summary/death_summary.json"
+player_combat_file = "data_summary/player_combat_summary.json"
 
 raw_data = fetch_match_data(region, player_name, tag)
 
@@ -33,11 +32,10 @@ if not raw_data:
     print("Could not fetch match data")
 else:
 
-    player = load_or_extract(player_file, parse_player_data, raw_data, player_name)
+    player = load_or_extract(player_file, extract_player_data, raw_data, player_name)
     #rounds = load_or_extract(rounds_file, extract_player_rounds, raw_data, player_name)
-    kills = load_or_extract(kills_file, extract_player_kills, raw_data, player_name)
-    deaths = load_or_extract(deaths_file, extract_player_deaths, raw_data, player_name)
+    player_combat = load_or_extract(player_combat_file, extract_player_combat_summary, raw_data, player_name)
         
-    feedback = generate_feedback(player, kills, deaths)
+    feedback = generate_feedback(player, player_combat)
     print("AI Feedback:\n", feedback)
 
