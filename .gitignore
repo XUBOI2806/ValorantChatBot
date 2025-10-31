@@ -1,0 +1,40 @@
+# --- Python / Environment ---
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# --- Build / Packaging ---
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Cache / Logs ---
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --- Gradio / Local Web UI ---
+gradio/
+gradio_cache/
+gradio_tempdir/
+gradio_log/
+__results__/
+
+# --- System / IDE ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# --- Misc ---
+*.bin
+*.gguf
+*.ckpt
+*.csv
+*.sqlite3
